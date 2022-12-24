@@ -1,0 +1,8 @@
+.person {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 12px;
+  width: 40%;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}

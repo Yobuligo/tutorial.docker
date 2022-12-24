@@ -1,0 +1,8 @@
+.personOverview button {
+  background-color: blueviolet;
+  color: white;
+  font-size: larger;
+  border-radius: 12px;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
